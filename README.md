@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Interests
+
+- UI design
+- CSS architecture
+- Front-end development tooling
+
+#### Now
+
+Looking for a web development & design related job roles.  
+Mainly interested of job positions in Helsinki area, Finland.  
+Remote positions also possible, depending on a case.
