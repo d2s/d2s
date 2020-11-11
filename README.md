@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 #### Interests
 
-- UI design
+- Design Systems
 - CSS architecture
+- UI design
 - Front-end development tooling
 
 #### Now
