@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 Looking for a web development & design related job roles.  
 Mainly interested of job positions in Helsinki area, Finland.  
 Remote positions also possible, depending on a case.
+
+#### Elsewhere
+
+- <a rel="me" href="https://autiomaa.org/">Personal website</a>
+- <a rel="me" href="https://mastodon.social/@autiomaa">Mastodon account</a>
