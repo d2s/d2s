@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=d2s&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
 
@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Interests
+### Interests
 
 - Design Systems
 - CSS architecture
 - UI design
 - Front-end development tooling
 
-#### Now
+### Now
 
 Looking for a web development & design related job roles.  
 Mainly interested of job positions in Helsinki area, Finland.  
 Remote positions also possible, depending on a case.
 
-#### Elsewhere
+### Elsewhere
 
 - <a rel="me" href="https://autiomaa.org/">Personal website</a>
 - <a rel="me" href="https://mastodon.social/@autiomaa">Mastodon account</a>
