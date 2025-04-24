@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 ### Now
 
 Looking for a web development & design related job roles.  
-Mainly interested of job positions in Helsinki area, Finland.  
-Remote positions also possible, depending on a case.
+Mainly interested of job positions in Finland.  
 
 ### Elsewhere
 
